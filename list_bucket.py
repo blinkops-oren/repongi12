@@ -1,6 +1,5 @@
 import boto3
 
-# Replace with your own AWS access key and secret access key
 ACCESS_KEY = 'AKIAWUPP4KA4KIV2CAHA'
 SECRET_KEY = 'pG9OUgvpL4BW16TlsAwlM+cO3zEm3gYE+W/q1EPU'
 
